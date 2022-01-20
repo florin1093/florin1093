@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @florin1093
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning anything i can about web design
-- 💞️ I’m looking to get a job as a web designer
+- 💞️ I’m looking to get a job as a cool guy that makes cool things
 - 📫 My email: florin.ungureanu0101@gmail.com
 
 <!---
